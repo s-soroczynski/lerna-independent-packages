@@ -1,0 +1,27 @@
+{
+  "name": "independent-package",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Sebastian Soroczynski <s.soroczynski@artgeist.com>",
+  "homepage": "https://github.com/s-soroczynski/lerna-independent-packages/tree/main/packages/independent-package#readme",
+  "license": "ISC",
+  "main": "dist/independent-package.js",
+  "module": "dist/independent-package.module.js",
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-soroczynski/lerna-independent-packages.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/s-soroczynski/lerna-independent-packages/issues"
+  }
+}
