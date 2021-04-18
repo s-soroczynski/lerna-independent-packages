@@ -1,3 +1,3 @@
 export default function() {
-    console.log('nowszy component');
+    console.log('nowszy ccomponent');
 }

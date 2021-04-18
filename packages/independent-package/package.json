@@ -1,6 +1,6 @@
 {
   "name": "independent-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Sebastian Soroczynski <s.soroczynski@artgeist.com>",
   "homepage": "https://github.com/s-soroczynski/lerna-independent-packages/tree/main/packages/independent-package#readme",
